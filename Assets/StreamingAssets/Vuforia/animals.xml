@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="horse" size="10.000000 8.626027" />
+    <ImageTarget name="9046426" size="10.000000 10.000000" />
+    <ImageTarget name="8705b52d-ec1c-4ca8-9ee1-76cfdfa62ead" size="10.000000 10.000000" />
+  </Tracking>
+</QCARConfig>

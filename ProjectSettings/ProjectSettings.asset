@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 00000000000000000000000000000000
+  productGUID: 1814867caca0b5545b9f668bdfddf5e4
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -40,7 +40,8 @@ PlayerSettings:
     width: 1
     height: 1
   m_SplashScreenLogos: []
-  m_VirtualRealitySplashScreen: {fileID: 2800000, guid: e0866a3fe6007224a9e3078d831ce6fc, type: 3}
+  m_VirtualRealitySplashScreen: {fileID: 2800000, guid: e0866a3fe6007224a9e3078d831ce6fc,
+    type: 3}
   m_HolographicTrackingLossScreen: {fileID: 0}
   defaultScreenWidth: 1024
   defaultScreenHeight: 768
@@ -955,7 +956,6 @@ PlayerSettings:
   syncCapabilities: 0
   platformCapabilities:
     WindowsStoreApps:
-      CodeGeneration: False
       OfflineMapsManagement: False
       HumanInterfaceDevice: False
       Location: False
@@ -968,6 +968,7 @@ PlayerSettings:
       InternetClientServer: False
       VideosLibrary: False
       Objects3D: False
+      InternetClient: True
       RemoteSystem: False
       BlockedChatMessages: False
       PhoneCall: False
@@ -989,7 +990,7 @@ PlayerSettings:
       RecordedCallsFolder: False
       Contacts: False
       Proximity: False
-      InternetClient: True
+      CodeGeneration: False
       BackgroundMediaPlayback: False
       EnterpriseAuthentication: False
   metroTargetDeviceFamilies:
@@ -1055,7 +1056,7 @@ PlayerSettings:
   cloudProjectId: 93805e37-22f4-4a7e-b6e5-7f4a63d74af2
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: AR -Animals Project
   organizationId: aya_ghanem
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1

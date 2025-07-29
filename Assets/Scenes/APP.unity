@@ -3953,6 +3953,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7895615684192669334}
+  - component: {fileID: 7895615684192669335}
   m_Layer: 0
   m_Name: Dog_001
   m_TagString: Untagged
@@ -4282,6 +4283,18 @@ Transform:
   - {fileID: 8386784097418812269}
   m_Father: {fileID: 558913955}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7895615684192669335
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7410967913164624940}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a88fd92cfb80d2142be45440dabb7059, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &7903552868015961330
 Transform:
   m_ObjectHideFlags: 0
@@ -5045,6 +5058,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8499824606160600230}
+  - component: {fileID: 9132915066623223325}
   m_Layer: 0
   m_Name: Horse_001
   m_TagString: Untagged
@@ -5052,6 +5066,18 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &9132915066623223325
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9132915066623223324}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a88fd92cfb80d2142be45440dabb7059, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &9155248424565876365
 Transform:
   m_ObjectHideFlags: 0

@@ -273,7 +273,7 @@ MonoBehaviour:
   mObserverBehaviour: {fileID: 558913954}
   mHiddenRoot: {fileID: 0}
   mTargetName: Dog
-  mDatasetName: Vuforia/FinalAnimalPic.xml
+  mDatasetName: Vuforia/finalDatabase.xml
   mCastedBehaviour: {fileID: 558913954}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
@@ -338,7 +338,7 @@ MonoBehaviour:
   RuntimeCollider: 0
   mTrackableName: Dog
   mInitializedInEditor: 1
-  mDataSetPath: Vuforia/FinalAnimalPic.xml
+  mDataSetPath: Vuforia/finalDatabase.xml
   mAspectRatio: 1
   mImageTargetType: 0
   mWidth: 1
@@ -552,9 +552,9 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: _cat
+  mTrackableName: Cat
   mInitializedInEditor: 1
-  mDataSetPath: Vuforia/FinalAnimalPic.xml
+  mDataSetPath: Vuforia/finalDatabase.xml
   mAspectRatio: 1
   mImageTargetType: 0
   mWidth: 1
@@ -594,8 +594,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 694405092}
   mHiddenRoot: {fileID: 0}
-  mTargetName: _cat
-  mDatasetName: Vuforia/FinalAnimalPic.xml
+  mTargetName: Cat
+  mDatasetName: Vuforia/finalDatabase.xml
   mCastedBehaviour: {fileID: 694405092}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
@@ -1292,7 +1292,7 @@ MonoBehaviour:
   mObserverBehaviour: {fileID: 1905666076}
   mHiddenRoot: {fileID: 0}
   mTargetName: Horse
-  mDatasetName: Vuforia/FinalAnimalPic.xml
+  mDatasetName: Vuforia/finalDatabase.xml
   mCastedBehaviour: {fileID: 1905666076}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
@@ -1357,11 +1357,11 @@ MonoBehaviour:
   RuntimeCollider: 0
   mTrackableName: Horse
   mInitializedInEditor: 1
-  mDataSetPath: Vuforia/FinalAnimalPic.xml
-  mAspectRatio: 0.862603
+  mDataSetPath: Vuforia/finalDatabase.xml
+  mAspectRatio: 1.600418
   mImageTargetType: 0
   mWidth: 1
-  mHeight: 0.862603
+  mHeight: 1.600418
   mRuntimeTexture: {fileID: 0}
   mMotionHint: 1
   mTrackingOptimization: 0
